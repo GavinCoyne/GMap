@@ -97,7 +97,7 @@ int drawable ic_plusone_standard_off_client 0x7f02001d
 int drawable ic_plusone_tall_off_client 0x7f02001e
 int drawable powered_by_google_dark 0x7f02001f
 int drawable powered_by_google_light 0x7f020020
-int id action_settings 0x7f070017
+int id action_settings 0x7f070018
 int id adjust_height 0x7f070002
 int id adjust_width 0x7f070001
 int id book_now 0x7f070012
@@ -110,6 +110,7 @@ int id grayscale 0x7f070015
 int id holo_dark 0x7f070007
 int id holo_light 0x7f070008
 int id hybrid 0x7f070006
+int id map 0x7f070017
 int id match_parent 0x7f07000e
 int id monochrome 0x7f070016
 int id none 0x7f070000
