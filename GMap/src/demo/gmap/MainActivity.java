@@ -59,6 +59,7 @@ LocationListener {
 
 	         map.setMyLocationEnabled(true);
 	         map.moveCamera(CameraUpdateFactory.newLatLngZoom(sydney, 13));
+	         map.setMapType(GoogleMap.MAP_TYPE_TERRAIN);
 
 	         map.addMarker(new MarkerOptions()
 	                 .title("Shartpoops")
